@@ -1,0 +1,39 @@
+body {
+  min-height: 2000px;
+  background-color: #f1faee;
+  color: #1d3557;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+#projects {
+  background-color: #0099ff;
+}
+nav {
+  background-color: #1d3557;
+}
+nav .container #tag {
+  color: #f1faee;
+}
+#bground {
+  background-color: #457b9d;
+  color: #f1faee;
+}
+#bground img {
+  transition: all 300ms;
+}
+#bground img:hover {
+  scale: 1.2;
+  /* transform: translateY(-2rem); */
+}
+footer {
+  background-color: #457b9d;
+}
+#projects {
+  background-color: #457b9d;
+  color: #f1faee;
+}
+footer .row .col a {
+  text-decoration: none;
+}
